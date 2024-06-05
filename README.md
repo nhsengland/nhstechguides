@@ -1,0 +1,60 @@
+# NHS Technology Guidelines
+
+> [!NOTE]
+> This site was previously the NHS England IT Standards. Since the merger with NHS Digital and HEE, those standards have moved on and this site will now be repurposed as a consolidated set of technology guidelines.
+
+The purpose of this site is to provide a consolidated set of technology guidelines for all NHS organisations and for suppliers, vendors, and OEM's supplying technology to the NHS. It may be a future delivery to include standards and/or formal requirements as well.
+
+These guidelines will be owned and governed not just by NHS England but by the NHS Technology Forum, consisting of digital and technology leads from across the NHS.
+
+These guidelines will signpost to NHS and UK Government legislation, policies, and standards as needed and they aim to draw together the excellent work done elsewhere into a single, discoverable site.
+
+> The UK Government **[Tech Vision](https://www.gov.uk/government/publications/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care/the-future-of-healthcare-our-vision-for-digital-data-and-technology-in-health-and-care)** - “Standards that meet user needs: we must be clear how these standards address the user needs of people who use health and care services, carers and families, as well as care professionals and commissioners.”
+
+> The **[NHS Long Term Plan](https://www.longtermplan.nhs.uk/areas-of-work/digital-transformation/)** - “Set standards that keep information secure and make sure NHS IT systems talk to each other to provide health and care staff with complete access to joined up patient records.”
+
+## To Do
+
+This site is designed to be a "living" resource and updated as legislation, policies and standards change. The backlog of changes is documented on the [TODO](TODO) page.
+
+> [!ATTENTION]
+> This site is being restructured to better fit with the principals outlined in the UK Government Technology Code of Practice. This should make it easier to follow.
+
+## Contributing
+
+> [!NOTE]
+> Contributions are welcome from **anyone**. You don't have to be part of the NHS or the UK Government to have great ideas and useful contributions. But please remember that this is specifically for the NHS, the UK's National Health Service and contributions must be relavent to that context. Contributions from suppliers are also most welcome.
+
+Ideas for new content, or restructuring to make the site easier to use can be raised in the [GitHub Discussions section](https://github.com/nhsengland/it-standards/discussions). 
+
+If you would like to suggest a correction or contribute to the guidelines, please raise a [GitHub Issue](https://github.com/nhsengland/it-standards/issues) in the first instance.
+
+Contributions will be accepted via [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PR). Direct contributors should create a "topic branch" in this repository, make changes there and then submit a PR to get the changes approved and accepted into the `main` branch which will always be the "current" published version.
+
+Non-direct contributors should create a fork of this repository, make changes and submit a PR.
+
+Minor changes will be reviewed by the NHS England Technology & Digital Assurance team (TaDA) of this repository and may be approved directly. Major changes to standards will be triaged initially by TaDA with approval at the *NHS Technology Forum*. Detailed reviews and further discussions may be allocated to subject matter experts as required.
+
+### Formatting and Structure
+
+All standards published in this repository will be written in [GitHub Flavoured Markdown](https://github.github.com/gfm/).
+
+Folders, naming standards, reference numbers and other structural standards are yet to be agreed.
+
+### Tools
+
+Devices being used to make amendments will need [Git](https://git-scm.com/) installed.
+
+Standard development type tools can be used to manage the change process. Many people will have a favourite code editor that supports Markdown such as [Microsoft Visual Studio Code](https://code.visualstudio.com/) (which is free for all use and available on different platforms). VS Code has a number of [extensions that support management of GitHub repositories](https://code.visualstudio.com/docs/editor/github).
+
+For anyone who wants something more visual than a text editor, [Typora](https://typora.io/) is recommended. Typora provides a visual editor (WYSIWYG) making edits much easier for non-coders.
+
+The visual version of the site uses [Docsify](https://docsify.js.org/#/) to dynamically convert the Markdown to a single-page web app. A number of Docsify extensions are used and these are loaded from the public JSdelivr CDN. If you are doing local editing, you may wish to install the Docsify CLI tool, you can then see changes locally by running `docsify serve` or simply `npm start` from within the root folder.
+
+## Copyright and License
+
+Unless otherwise specified, all content in this repository and any copies are subject to [Crown Copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/) under the [Open Government License v3](./LICENSE).
+
+Any code is dual licensed under the [MIT license](./MIT-LICENSE) and the [Open Government License v3](./LICENSE). 
+
+Any new work added to this repository must conform to the conditions of these licenses. In particular this means that this project may not depend on GPL-licensed or AGPL-licensed libraries, as these would violate the terms of those libraries' licenses.
