@@ -121,6 +121,3 @@ _node_modules
 
 # These are private
 *.code-workspace
-
-# We shouldn't commit files with names starting with _
-_*
