@@ -57,7 +57,4 @@
 - [Contributing](CONTRIBUTING)
 - [To do](TODO)
 
-- **Links**
-  
-- [NHS England GitHub](https://github.com/nhsengland/)
-- [NHS Design System](https://service-manual.nhs.uk/design-system)
+- [Links](links.md)
