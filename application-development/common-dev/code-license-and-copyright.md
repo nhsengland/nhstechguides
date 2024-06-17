@@ -15,7 +15,7 @@ reviewDate: 2022-12-31
 
 There can be exceptions to this. Exceptions are generally allowable where an external party has been commissioned to create/amend software and where it has been agreed that they will own the Intellectual Property because they are best placed to continue to _add value to the UK public_. The measure must be in regard to value to the UK public. If the external developer cannot demonstrate this key measure, then IP should be retained and the licenses shown here must be applied.
 
-All code repositories **MUST** be accompanied by a file in the root folder called `LICENSE` which must contain a copy of the OGL license. A copy of the MIT license should also be included. Copies of those files can be found in the [root folder of this IT Standards Repository](https://github.com/nhsengland/it-standards).
+All code repositories **MUST** be accompanied by a file in the root folder called `LICENSE` which must contain a copy of the OGL license. A copy of the MIT license should also be included. Copies of those files can be found in the [root folder of this IT Standards Repository](https://github.com/nhsengland/nhstechguides).
 
 As a consequence of this standard, anything carrying a license of GPL, AGPL or similar **CANNOT** be included. Contact Corporate IT if this is an issue so that the legal issues can be worked through and approved or worked around.
 
