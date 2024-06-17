@@ -1,8 +1,5 @@
 # NHS Technology Guidelines
 
-> [!NOTE]
-> This site was originally a clone of the NHS England IT Standards. This copy will now be repurposed as a consolidated set of technology guidelines for the NHS under the guidance of Technology leads from across the NHS.
-
 The purpose of this site is to provide a consolidated set of technology guidelines for all NHS organisations and for suppliers, vendors, and OEM's supplying technology to the NHS. It may be a future delivery to include standards and/or formal requirements as well.
 
 These guidelines will be owned and governed not just by NHS England but by the NHS Technology Forum, consisting of digital and technology leads from across the NHS.
