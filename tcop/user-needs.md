@@ -4,7 +4,7 @@ description: |
   Defining user needs must be the starting point of any digital or technology service.
   It is pointless to deliver a service that does not directly address needs of its users.
 created: 2024-06-18 16:05:02
-updated: 2024-06-18 16:05:06
+updated: 2024-06-18 17:24:46
 author: Julian Knight
 ---
 
